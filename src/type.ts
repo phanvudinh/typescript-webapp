@@ -1,0 +1,1 @@
+export type ContructorType = {new (...args: any[]): any};
